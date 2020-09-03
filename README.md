@@ -9,10 +9,6 @@ The GitHub profile-level `README` feature allows more content than the profile b
 The profile README is created by creating a new repository that’s the same name as your username. For example, my GitHub username is m0nica so I created a new repository with the name m0nica. Note: at the time of this writing, in order to access the profile README feature, the letter-casing must match your GitHub username.
 <br />
 1. Create a new repository with the same name (including casing) as your GitHub username: https://github.com/new <br />
+2. Create a README.md file inside the new repo with content (text, GIFs, images, emojis, etc.)<br />
+      ``Commit your fancy new README!``
 
-Create a README.md file inside the new repo with content (text, GIFs, images, emojis, etc.)
-
-Commit your fancy new README!
-
-If you're on GitHub's web interface you can choose to commit directly to the repo's main branch (i.e., master or main) which will make it immediately visible on your profile)
-Push changes to GitHub (if you made changes locally i.e., on your computer and not github.com)
