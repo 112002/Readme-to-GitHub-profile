@@ -7,3 +7,6 @@ The GitHub profile-level `README` feature allows more content than the profile b
 <br />
    A solid README is a core-component of well-documented software and often encourages collaboration by sharing helpful context with contributors. In my opinion, a profile-        level README seems like a great extension of a convention a lot of GitHub users are already familiar with. If you're looking to make project-level READMEs more awesome and      helpful check out matiassingers/awesome-readme for resources and examples of compelling `READMEs`.
 
+- <b>How do I create a profile README?</b>
+The profile README is created by creating a new repository that’s the same name as your username. For example, my GitHub username is m0nica so I created a new repository with the name m0nica. Note: at the time of this writing, in order to access the profile README feature, the letter-casing must match your GitHub username.
+<br />
