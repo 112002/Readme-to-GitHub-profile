@@ -14,3 +14,7 @@ The profile README is created by creating a new repository that’s the same nam
 If you're on GitHub's web interface you can choose to commit directly to the repo's main branch (i.e., `master` or `main`) which will make it immediately visible on your profile) <br />
 3. Push changes to GitHub (if you made changes locally i.e., on your computer and not github.com)
 
+- <b> Fun READMEs</b>
+The GitHub README profiles are written in Markdown which means you aren't just limited to texts and links, you can include GIFs and images.
+<br />
+If you're really ambitious you can use GitHub actions or other automation like bdougieYO or simonw to dynamically pull data into your README
